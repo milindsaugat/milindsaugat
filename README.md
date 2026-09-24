@@ -1,22 +1,16 @@
-﻿<div align="center">
+<div align="center">
 
-<!-- Animated Header Banner â€” Cyan/Emerald Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:0f2027,50:00d2ff,75:3a7bd5,100:00d2ff&height=250&section=header&text=&fontSize=1&fontColor=ffffff&animation=twinkling" />
+<!-- Animated Header Banner with Name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:00d2ff,100:3a7bd5&height=220&section=header&text=Milind%20Ratan%20Saugat&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%E2%80%A2%20devmilind.me&descSize=17&descAlignY=56&descAlign=50&fontAlign=50" />
 
-<!-- Hero Name & Title -->
+<!-- Animated Tagline -->
+<a href="https://devmilind.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%E2%9A%A1+2%2B+Years+Experience+%7C+15%2B+Apps+Shipped+Globally;%F0%9F%92%BB+React+%E2%80%A2+Node.js+%E2%80%A2+PHP+%E2%80%A2+Laravel+%E2%80%A2+WordPress;%F0%9F%87%AE%F0%9F%87%B3+India+%E2%80%A2+%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%80%A2+%F0%9F%87%B2%F0%9F%87%BE+Malaysia;%F0%9F%9A%80+Building+Digital+Experiences+That+Matter" alt="Typing SVG" />
+</a>
+
 <br/>
 
-<a href="https://devmilind.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&duration=4000&pause=1500&color=00D2FF&center=true&vCenter=true&repeat=true&width=800&height=55&lines=MILIND+RATAN+SAUGAT" alt="Name" />
-</a>
-
-<a href="https://devmilind.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%E2%9A%A1+Full+Stack+Developer+%7C+2%2B+Years+Experience;%F0%9F%8C%8F+15%2B+Production+Apps+Shipped+Globally;%F0%9F%92%BB+React+%E2%80%A2+Node+%E2%80%A2+PHP+%E2%80%A2+Laravel+%E2%80%A2+WordPress;%F0%9F%87%AE%F0%9F%87%B3+India+%E2%80%A2+%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%80%A2+%F0%9F%87%B2%F0%9F%87%BE+Malaysia" alt="Role Typing" />
-</a>
-
-<br/><br/>
-
-<!-- Social Links â€” Sleek Style -->
+<!-- Social Links -->
 <a href="https://devmilind.me"><img src="https://img.shields.io/badge/Portfolio-devmilind.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00D2FF&labelColor=0d1117" alt="Portfolio"/></a>&nbsp;
 <a href="https://linkedin.com/in/milind-ratan-saugat"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:milindsaugat1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hi-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Gmail"/></a>&nbsp;
