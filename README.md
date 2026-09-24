@@ -55,7 +55,7 @@
 ```typescript
 const milind: Developer = {
   name: "Milind Ratan Saugat",
-  location: "Agra, Uttar Pradesh ðŸ‡®ðŸ‡³",
+  location: "Agra, Uttar Pradesh 🇮🇳",
   role: "Full Stack Developer @ KDS",
   experience: "2+ years | 15+ apps shipped",
   portfolio: "https://devmilind.me",
@@ -68,7 +68,7 @@ const milind: Developer = {
     mobile: ["Flutter"],
   },
   
-  clients: ["ðŸ‡®ðŸ‡³ India", "ðŸ‡©ðŸ‡ª Germany", "ðŸ‡²ðŸ‡¾ Malaysia"],
+  clients: ["🇮🇳 India", "🇩🇪 Germany", "🇲🇾 Malaysia"],
   aiTools: ["Claude Code", "Cursor AI", "Gemini"],
 };
 ```
@@ -215,7 +215,7 @@ const milind: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> YieldIQ â€” Investment Platform</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> YieldIQ • Investment Platform</h3>
 
 <div align="center">
 
@@ -229,14 +229,14 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb&perline=5&theme=dark" width="180" />
 </p>
 
-â–¸ Super Admin, Partner/Agent & Investor dashboards  
-â–¸ ROI tracking & automated commission calculation  
-â–¸ Agent-client relationship management  
+▹ Super Admin, Partner/Agent & Investor dashboards  
+▹ ROI tracking & automated commission calculation  
+▹ Agent-client relationship management  
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" width="22" /> tocken.in â€” Real Estate Portal</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" width="22" /> tocken.in • Real Estate Portal</h3>
 
 <div align="center">
 
@@ -250,9 +250,9 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4&theme=dark" width="150" />
 </p>
 
-â–¸ Advanced search & filtering system  
-â–¸ Detailed property views & agent profiles  
-â–¸ Buyer-to-agent inquiry workflows  
+▹ Advanced search & filtering system  
+▹ Detailed property views & agent profiles  
+▹ Buyer-to-agent inquiry workflows  
 
 </td>
 </tr>
@@ -260,7 +260,7 @@ const milind: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> Blackmontcap â€” Precious Metals</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> Blackmontcap • Precious Metals</h3>
 
 <div align="center">
 
@@ -274,14 +274,14 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb&perline=5&theme=dark" width="180" />
 </p>
 
-â–¸ Live spot rate display  
-â–¸ Custom booking & transaction system  
-â–¸ Full admin dashboard for orders management  
+▹ Live spot rate display  
+▹ Custom booking & transaction system  
+▹ Full admin dashboard for orders management  
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="22" /> Wordora â€” Content Agency CMS</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="22" /> Wordora • Content Agency CMS</h3>
 
 <div align="center">
 
@@ -295,9 +295,9 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js&perline=5&theme=dark" width="180" />
 </p>
 
-â–¸ Client order & writer assignment workflows  
-â–¸ Content delivery tracking & revision handling  
-â–¸ Built-in SEO optimization tools  
+▹ Client order & writer assignment workflows  
+▹ Content delivery tracking & revision handling  
+▹ Built-in SEO optimization tools  
 
 </td>
 </tr>
@@ -305,7 +305,7 @@ const milind: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" /> Kriti Digital â€” Enterprise CMS</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" /> Kriti Digital • Enterprise CMS</h3>
 
 <div align="center">
 
@@ -319,14 +319,14 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js&perline=5&theme=dark" width="180" />
 </p>
 
-â–¸ Manages jobs, pages, blogs & case studies  
-â–¸ SEO metadata & lead management  
-â–¸ Role-based access control system  
+▹ Manages jobs, pages, blogs & case studies  
+▹ SEO metadata & lead management  
+▹ Role-based access control system  
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" width="22" /> Catch&Watch â€” OTT Dashboard</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" width="22" /> Catch&Watch • OTT Dashboard</h3>
 
 <br/>
 
@@ -336,9 +336,9 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=react&perline=1&theme=dark" width="45" />
 </p>
 
-â–¸ Instagram-like content feed  
-â–¸ Creator upload flows & content categorization  
-â–¸ Fully responsive component architecture  
+▹ Instagram-like content feed  
+▹ Creator upload flows & content categorization  
+▹ Fully responsive component architecture  
 
 </td>
 </tr>
@@ -346,7 +346,7 @@ const milind: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> RangoliJewels â€” E-commerce</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> RangoliJewels • E-commerce</h3>
 
 <div align="center">
 
@@ -360,13 +360,13 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=wordpress&perline=1&theme=dark" width="45" />
 </p>
 
-â–¸ Custom pincode-based product availability  
-â–¸ Localized shopping experience  
+▹ Custom pincode-based product availability  
+▹ Localized shopping experience  
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" width="22" /> Studio0211 â€” German Agency</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" width="22" /> Studio0211 • German Agency</h3>
 
 <div align="center">
 
@@ -380,8 +380,8 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=wordpress&perline=1&theme=dark" width="45" />
 </p>
 
-â–¸ Responsive portfolio & service showcase  
-â–¸ Cross-browser optimized for German market  
+▹ Responsive portfolio & service showcase  
+▹ Cross-browser optimized for German market  
 
 </td>
 </tr>
@@ -441,28 +441,28 @@ const milind: Developer = {
 <tr>
 <td>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" /> Full Stack Developer â€” Kriti Digital Solution (KDS)
-**`Jan 2025 â€“ Present`** &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="14" /> Agra, UP
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" /> Full Stack Developer • Kriti Digital Solution (KDS)
+**`Jan 2025 - Present`** &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="14" /> Agra, UP
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,php,mysql,wordpress&perline=5&theme=dark" width="200" />
 
-â–¸ Building scalable full-stack apps for **investment, real estate, healthcare, FMCG** sectors  
-â–¸ Delivering production-grade apps for clients across **India, Germany & Malaysia**  
-â–¸ Leveraging **AI-powered tools** (Claude Code, Cursor, Gemini) for 2x delivery speed
+▹ Building scalable full-stack apps for **investment, real estate, healthcare, FMCG** sectors  
+▹ Delivering production-grade apps for clients across **India, Germany & Malaysia**  
+▹ Leveraging **AI-powered tools** (Claude Code, Cursor, Gemini) for 2x delivery speed
 
 </td>
 </tr>
 <tr>
 <td>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" /> Website Developer â€” Full Digital Ads (FDA)
-**`2024 â€“ 2025`** &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="14" /> Agra, UP
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" /> Website Developer • Full Digital Ads (FDA)
+**`2024 - 2025`** &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="14" /> Agra, UP
 
 <img src="https://skillicons.dev/icons?i=html,css,js,wordpress&perline=4&theme=dark" width="160" />
 
-â–¸ Designed responsive websites for **retail, services & hospitality** clients  
-â–¸ Collaborated with design & marketing teams on **brand-aligned web assets**  
-â–¸ Improved **performance, SEO & cross-browser compatibility** across projects
+▹ Designed responsive websites for **retail, services & hospitality** clients  
+▹ Collaborated with design & marketing teams on **brand-aligned web assets**  
+▹ Improved **performance, SEO & cross-browser compatibility** across projects
 
 </td>
 </tr>
@@ -480,9 +480,9 @@ const milind: Developer = {
 
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="16" /> Degree | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" width="16" /> Institution | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="16" /> Year |
 |:--|:--|:--|
-| **BCA (Bachelor of Computer Application)** | Uttam Group of Institutions, Agra | `2024 â€“ 2027` (Ongoing) |
-| **Intermediate â€” Class 12** | Radha Ballabh Inter College, UP Board | `Completed 2021` |
-| **High School â€” Class 10** | Radha Ballabh Inter College, UP Board | `Completed 2019` |
+| **BCA (Bachelor of Computer Application)** | Uttam Group of Institutions, Agra | `2024 - 2027` (Ongoing) |
+| **Intermediate • Class 12** | Radha Ballabh Inter College, UP Board | `Completed 2021` |
+| **High School • Class 10** | Radha Ballabh Inter College, UP Board | `Completed 2019` |
 
 </div>
 
@@ -534,15 +534,6 @@ const milind: Developer = {
 </a>
 
 <br/><br/>
-
-```
- â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
- â•‘                                                                  â•‘
- â•‘   "First, solve the problem. Then, write the code."              â•‘
- â•‘                                          â€” John Johnson          â•‘
- â•‘                                                                  â•‘
- â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-```
 
 <br/>
 
