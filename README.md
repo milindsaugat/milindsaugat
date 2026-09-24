@@ -1,27 +1,33 @@
-<div align="center">
+﻿<div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:6c63ff,75:b794f6,100:6c63ff&height=230&section=header&text=Milind%20Ratan%20Saugat&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%E2%80%A2%20Building%20Digital%20Experiences%20That%20Matter&descSize=16&descAlignY=54&descAlign=50" />
+<!-- Animated Header Banner â€” Cyan/Emerald Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:0f2027,50:00d2ff,75:3a7bd5,100:00d2ff&height=250&section=header&text=&fontSize=1&fontColor=ffffff&animation=twinkling" />
 
-<!-- Typing SVG -->
-<a href="https://devmilind.me">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%3C%2F%3E+Full+Stack+Developer+%7C+2%2B+Years+Experience;%F0%9F%8C%8F+15%2B+Production+Apps+Shipped+Globally;%E2%9A%A1+React+%E2%80%A2+Node+%E2%80%A2+PHP+%E2%80%A2+Laravel+%E2%80%A2+WordPress" alt="Typing SVG" />
-</a>
-
+<!-- Hero Name & Title -->
 <br/>
 
-<!-- Social Links with Icons -->
-<a href="https://devmilind.me"><img src="https://img.shields.io/badge/devmilind.me-000000?style=for-the-badge&logo=googlechrome&logoColor=B794F6" alt="Portfolio"/></a>&nbsp;
-<a href="https://linkedin.com/in/milind-ratan-saugat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:milindsaugat1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://github.com/milindsaugat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://devmilind.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&duration=4000&pause=1500&color=00D2FF&center=true&vCenter=true&repeat=true&width=800&height=55&lines=MILIND+RATAN+SAUGAT" alt="Name" />
+</a>
+
+<a href="https://devmilind.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%E2%9A%A1+Full+Stack+Developer+%7C+2%2B+Years+Experience;%F0%9F%8C%8F+15%2B+Production+Apps+Shipped+Globally;%F0%9F%92%BB+React+%E2%80%A2+Node+%E2%80%A2+PHP+%E2%80%A2+Laravel+%E2%80%A2+WordPress;%F0%9F%87%AE%F0%9F%87%B3+India+%E2%80%A2+%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%80%A2+%F0%9F%87%B2%F0%9F%87%BE+Malaysia" alt="Role Typing" />
+</a>
 
 <br/><br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=milindsaugat&label=PROFILE+VIEWS&color=6c63ff&style=flat-square&labelColor=0d1117" alt="Profile Views" />&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/milindsaugat?label=FOLLOWERS&style=flat-square&color=6c63ff&labelColor=0d1117" alt="Followers" />&nbsp;&nbsp;
-<img src="https://img.shields.io/github/stars/milindsaugat?label=TOTAL+STARS&style=flat-square&color=6c63ff&labelColor=0d1117" alt="Stars" />
+<!-- Social Links â€” Sleek Style -->
+<a href="https://devmilind.me"><img src="https://img.shields.io/badge/Portfolio-devmilind.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00D2FF&labelColor=0d1117" alt="Portfolio"/></a>&nbsp;
+<a href="https://linkedin.com/in/milind-ratan-saugat"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:milindsaugat1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hi-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Gmail"/></a>&nbsp;
+<a href="https://github.com/milindsaugat"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/></a>
+
+<br/><br/>
+
+<!-- Profile Metrics -->
+<img src="https://komarev.com/ghpvc/?username=milindsaugat&label=PROFILE+VIEWS&color=00d2ff&style=flat-square&labelColor=0d1117" alt="Profile Views" />&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/milindsaugat?label=FOLLOWERS&style=flat-square&color=00d2ff&labelColor=0d1117" alt="Followers" />&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/milindsaugat?label=TOTAL+STARS&style=flat-square&color=00d2ff&labelColor=0d1117" alt="Stars" />
 
 </div>
 
@@ -29,45 +35,63 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ABOUT ME Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> &nbsp;About Me
+<div align="center">
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" /> &nbsp;About Me
+
+</div>
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindsaugat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=6" width="100%" alt="Top Languages" />
+
+</div>
+
+</td>
+<td width="55%" valign="top">
 
 ```typescript
 const milind: Developer = {
   name: "Milind Ratan Saugat",
-  location: "Agra, Uttar Pradesh, India",
+  location: "Agra, Uttar Pradesh ðŸ‡®ðŸ‡³",
   role: "Full Stack Developer @ KDS",
-  experience: "2+ years | 15+ production apps",
+  experience: "2+ years | 15+ apps shipped",
   portfolio: "https://devmilind.me",
   
   skills: {
-    frontend: ["React.js", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "PHP", "Laravel"],
+    frontend: ["React.js", "Next.js", "Tailwind"],
+    backend: ["Node.js", "Express", "PHP", "Laravel"],
     database: ["MongoDB", "MySQL"],
     cms: ["WordPress", "WooCommerce"],
     mobile: ["Flutter"],
   },
   
-  clients: ["🇮🇳 India", "🇩🇪 Germany", "🇲🇾 Malaysia"],
-  currentFocus: "Building scalable web platforms",
-  aiTools: ["Claude Code", "Cursor AI", "Gemini", "Codex"],
+  clients: ["ðŸ‡®ðŸ‡³ India", "ðŸ‡©ðŸ‡ª Germany", "ðŸ‡²ðŸ‡¾ Malaysia"],
+  aiTools: ["Claude Code", "Cursor AI", "Gemini"],
 };
 ```
 
-<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="18" /> &nbsp;Working at **Kriti Digital Solution (KDS)**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" /> &nbsp;Currently working at **Kriti Digital Solution (KDS)**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="18" /> &nbsp;Building apps for **investment, real estate, OTT & healthcare**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="20" /> &nbsp;Building scalable apps for **investment, real estate, OTT, healthcare & e-commerce**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="18" /> &nbsp;Shipping 2x faster with **AI-powered dev tools**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20" /> &nbsp;Actively using **AI-powered dev tools** to ship faster
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="18" /> &nbsp;**milindsaugat1122@gmail.com**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="20" /> &nbsp;Reach me at **milindsaugat1122@gmail.com**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="18" /> &nbsp;**809+ contributions** in the last year!
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20" /> &nbsp;**809+ contributions** in the last year!
-
-<br clear="both"/>
+</td>
+</tr>
+</table>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -197,11 +221,11 @@ const milind: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> YieldIQ — Investment Platform</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> YieldIQ â€” Investment Platform</h3>
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/LIVE-yieldiq.online-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://yieldiq.online)
+[![Live](https://img.shields.io/badge/LIVE-yieldiq.online-00d2ff?style=flat-square&logo=vercel&logoColor=white)](https://yieldiq.online)
 
 </div>
 
@@ -211,18 +235,18 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb&perline=5&theme=dark" width="180" />
 </p>
 
-▸ Super Admin, Partner/Agent & Investor dashboards  
-▸ ROI tracking & automated commission calculation  
-▸ Agent-client relationship management  
+â–¸ Super Admin, Partner/Agent & Investor dashboards  
+â–¸ ROI tracking & automated commission calculation  
+â–¸ Agent-client relationship management  
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" width="22" /> tocken.in — Real Estate Portal</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" width="22" /> tocken.in â€” Real Estate Portal</h3>
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/LIVE-tocken.in-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://tocken.in)
+[![Live](https://img.shields.io/badge/LIVE-tocken.in-00d2ff?style=flat-square&logo=vercel&logoColor=white)](https://tocken.in)
 
 </div>
 
@@ -232,9 +256,9 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4&theme=dark" width="150" />
 </p>
 
-▸ Advanced search & filtering system  
-▸ Detailed property views & agent profiles  
-▸ Buyer-to-agent inquiry workflows  
+â–¸ Advanced search & filtering system  
+â–¸ Detailed property views & agent profiles  
+â–¸ Buyer-to-agent inquiry workflows  
 
 </td>
 </tr>
@@ -242,11 +266,11 @@ const milind: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> Blackmontcap — Precious Metals</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> Blackmontcap â€” Precious Metals</h3>
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/LIVE-blackmontcap.com-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://blackmontcap.com)
+[![Live](https://img.shields.io/badge/LIVE-blackmontcap.com-00d2ff?style=flat-square&logo=vercel&logoColor=white)](https://blackmontcap.com)
 
 </div>
 
@@ -256,18 +280,18 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb&perline=5&theme=dark" width="180" />
 </p>
 
-▸ Live spot rate display  
-▸ Custom booking & transaction system  
-▸ Full admin dashboard for orders management  
+â–¸ Live spot rate display  
+â–¸ Custom booking & transaction system  
+â–¸ Full admin dashboard for orders management  
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="22" /> Wordora — Content Agency CMS</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="22" /> Wordora â€” Content Agency CMS</h3>
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/LIVE-wordora.in-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://wordora.in)
+[![Live](https://img.shields.io/badge/LIVE-wordora.in-00d2ff?style=flat-square&logo=vercel&logoColor=white)](https://wordora.in)
 
 </div>
 
@@ -277,9 +301,9 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js&perline=5&theme=dark" width="180" />
 </p>
 
-▸ Client order & writer assignment workflows  
-▸ Content delivery tracking & revision handling  
-▸ Built-in SEO optimization tools  
+â–¸ Client order & writer assignment workflows  
+â–¸ Content delivery tracking & revision handling  
+â–¸ Built-in SEO optimization tools  
 
 </td>
 </tr>
@@ -287,11 +311,11 @@ const milind: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" /> Kriti Digital — Enterprise CMS</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" /> Kriti Digital â€” Enterprise CMS</h3>
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/LIVE-kritidigital.com-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://kritidigital.com)
+[![Live](https://img.shields.io/badge/LIVE-kritidigital.com-00d2ff?style=flat-square&logo=vercel&logoColor=white)](https://kritidigital.com)
 
 </div>
 
@@ -301,14 +325,14 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js&perline=5&theme=dark" width="180" />
 </p>
 
-▸ Manages jobs, pages, blogs & case studies  
-▸ SEO metadata & lead management  
-▸ Role-based access control system  
+â–¸ Manages jobs, pages, blogs & case studies  
+â–¸ SEO metadata & lead management  
+â–¸ Role-based access control system  
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" width="22" /> Catch&Watch — OTT Dashboard</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" width="22" /> Catch&Watch â€” OTT Dashboard</h3>
 
 <br/>
 
@@ -318,9 +342,9 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=react&perline=1&theme=dark" width="45" />
 </p>
 
-▸ Instagram-like content feed  
-▸ Creator upload flows & content categorization  
-▸ Fully responsive component architecture  
+â–¸ Instagram-like content feed  
+â–¸ Creator upload flows & content categorization  
+â–¸ Fully responsive component architecture  
 
 </td>
 </tr>
@@ -328,11 +352,11 @@ const milind: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> RangoliJewels — E-commerce</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> RangoliJewels â€” E-commerce</h3>
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/LIVE-RangoliJewels.in-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://RangoliJewels.in)
+[![Live](https://img.shields.io/badge/LIVE-RangoliJewels.in-00d2ff?style=flat-square&logo=vercel&logoColor=white)](https://RangoliJewels.in)
 
 </div>
 
@@ -342,17 +366,17 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=wordpress&perline=1&theme=dark" width="45" />
 </p>
 
-▸ Custom pincode-based product availability  
-▸ Localized shopping experience  
+â–¸ Custom pincode-based product availability  
+â–¸ Localized shopping experience  
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" width="22" /> Studio0211 — German Agency</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" width="22" /> Studio0211 â€” German Agency</h3>
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/LIVE-studio0211.de-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://studio0211.de)
+[![Live](https://img.shields.io/badge/LIVE-studio0211.de-00d2ff?style=flat-square&logo=vercel&logoColor=white)](https://studio0211.de)
 
 </div>
 
@@ -362,8 +386,8 @@ const milind: Developer = {
   <img src="https://skillicons.dev/icons?i=wordpress&perline=1&theme=dark" width="45" />
 </p>
 
-▸ Responsive portfolio & service showcase  
-▸ Cross-browser optimized for German market  
+â–¸ Responsive portfolio & service showcase  
+â–¸ Cross-browser optimized for German market  
 
 </td>
 </tr>
@@ -392,8 +416,8 @@ const milind: Developer = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=milindsaugat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B794F6&icon_color=6C63FF&text_color=c9d1d9&ring_color=B794F6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=milindsaugat&theme=tokyonight&hide_border=true&background=0d1117&ring=B794F6&fire=6C63FF&currStreakLabel=B794F6&sideLabels=c9d1d9&dates=555555&currStreakNum=B794F6&sideNums=6C63FF" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=milindsaugat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=58A6FF&text_color=c9d1d9&ring_color=00d2ff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=milindsaugat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=58A6FF&currStreakLabel=00d2ff&sideLabels=c9d1d9&dates=555555&currStreakNum=00d2ff&sideNums=58A6FF" alt="GitHub Streak" />
 
 </div>
 
@@ -401,14 +425,14 @@ const milind: Developer = {
 
 <div align="center">
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindsaugat&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B794F6&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindsaugat&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=milindsaugat&custom_title=Milind's%20Contribution%20Graph&bg_color=0d1117&color=B794F6&line=6C63FF&point=ffffff&area_color=B794F6&area=true&hide_border=true&title_color=c9d1d9" alt="Contribution Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=milindsaugat&custom_title=Milind's%20Contribution%20Graph&bg_color=0d1117&color=00d2ff&line=58A6FF&point=ffffff&area_color=00d2ff&area=true&hide_border=true&title_color=c9d1d9" alt="Contribution Graph" />
 </div>
 
 <!-- Animated Divider -->
@@ -423,28 +447,28 @@ const milind: Developer = {
 <tr>
 <td>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" /> Full Stack Developer — Kriti Digital Solution (KDS)
-**`Jan 2025 – Present`** &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="14" /> Agra, UP
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" /> Full Stack Developer â€” Kriti Digital Solution (KDS)
+**`Jan 2025 â€“ Present`** &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="14" /> Agra, UP
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,php,mysql,wordpress&perline=5&theme=dark" width="200" />
 
-▸ Building scalable full-stack apps for **investment, real estate, healthcare, FMCG** sectors  
-▸ Delivering production-grade apps for clients across **India, Germany & Malaysia**  
-▸ Leveraging **AI-powered tools** (Claude Code, Cursor, Gemini) for 2x delivery speed
+â–¸ Building scalable full-stack apps for **investment, real estate, healthcare, FMCG** sectors  
+â–¸ Delivering production-grade apps for clients across **India, Germany & Malaysia**  
+â–¸ Leveraging **AI-powered tools** (Claude Code, Cursor, Gemini) for 2x delivery speed
 
 </td>
 </tr>
 <tr>
 <td>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" /> Website Developer — Full Digital Ads (FDA)
-**`2024 – 2025`** &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="14" /> Agra, UP
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" /> Website Developer â€” Full Digital Ads (FDA)
+**`2024 â€“ 2025`** &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="14" /> Agra, UP
 
 <img src="https://skillicons.dev/icons?i=html,css,js,wordpress&perline=4&theme=dark" width="160" />
 
-▸ Designed responsive websites for **retail, services & hospitality** clients  
-▸ Collaborated with design & marketing teams on **brand-aligned web assets**  
-▸ Improved **performance, SEO & cross-browser compatibility** across projects
+â–¸ Designed responsive websites for **retail, services & hospitality** clients  
+â–¸ Collaborated with design & marketing teams on **brand-aligned web assets**  
+â–¸ Improved **performance, SEO & cross-browser compatibility** across projects
 
 </td>
 </tr>
@@ -462,9 +486,9 @@ const milind: Developer = {
 
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="16" /> Degree | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" width="16" /> Institution | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="16" /> Year |
 |:--|:--|:--|
-| **BCA (Bachelor of Computer Application)** | Uttam Group of Institutions, Agra | `2024 – 2027` (Ongoing) |
-| **Intermediate — Class 12** | Radha Ballabh Inter College, UP Board | `Completed 2021` |
-| **High School — Class 10** | Radha Ballabh Inter College, UP Board | `Completed 2019` |
+| **BCA (Bachelor of Computer Application)** | Uttam Group of Institutions, Agra | `2024 â€“ 2027` (Ongoing) |
+| **Intermediate â€” Class 12** | Radha Ballabh Inter College, UP Board | `Completed 2021` |
+| **High School â€” Class 10** | Radha Ballabh Inter College, UP Board | `Completed 2019` |
 
 </div>
 
@@ -503,7 +527,7 @@ const milind: Developer = {
 <br/>
 
 <a href="https://devmilind.me">
-  <img src="https://img.shields.io/badge/Portfolio-devmilind.me-B794F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-devmilind.me-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>&nbsp;
 <a href="https://linkedin.com/in/milind-ratan-saugat">
   <img src="https://img.shields.io/badge/LinkedIn-milind--saugat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -518,12 +542,12 @@ const milind: Developer = {
 <br/><br/>
 
 ```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║   "First, solve the problem. Then, write the code."              ║
- ║                                          — John Johnson          ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
+ â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
+ â•‘                                                                  â•‘
+ â•‘   "First, solve the problem. Then, write the code."              â•‘
+ â•‘                                          â€” John Johnson          â•‘
+ â•‘                                                                  â•‘
+ â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 ```
 
 <br/>
@@ -532,6 +556,6 @@ const milind: Developer = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:6c63ff,75:b794f6,100:6c63ff&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f2027,50:00d2ff,75:3a7bd5,100:00d2ff&height=120&section=footer" />
 
 </div>
