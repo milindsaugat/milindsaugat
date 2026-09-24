@@ -1,112 +1,195 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Milind%20Ratan%20Saugat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descSize=18&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:6c63ff,75:b794f6,100:6c63ff&height=230&section=header&text=Milind%20Ratan%20Saugat&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%E2%80%A2%20Building%20Digital%20Experiences%20That%20Matter&descSize=16&descAlignY=54&descAlign=50" />
 
 <!-- Typing SVG -->
 <a href="https://devmilind.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%92%BB+Full+Stack+Developer+%7C+2%2B+Years+Experience;%F0%9F%8C%8D+15%2B+Production+Apps+%7C+India+%C2%B7+Germany+%C2%B7+Malaysia;%F0%9F%9A%80+React.js+%7C+Node.js+%7C+PHP+%7C+Laravel+%7C+WordPress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%3C%2F%3E+Full+Stack+Developer+%7C+2%2B+Years+Experience;%F0%9F%8C%8F+15%2B+Production+Apps+Shipped+Globally;%E2%9A%A1+React+%E2%80%A2+Node+%E2%80%A2+PHP+%E2%80%A2+Laravel+%E2%80%A2+WordPress" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-devmilind.me-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devmilind.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milind-ratan-saugat)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milindsaugat1122@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/milindsaugat)
+<!-- Social Links with Icons -->
+<a href="https://devmilind.me"><img src="https://img.shields.io/badge/devmilind.me-000000?style=for-the-badge&logo=googlechrome&logoColor=B794F6" alt="Portfolio"/></a>&nbsp;
+<a href="https://linkedin.com/in/milind-ratan-saugat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:milindsaugat1122@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://github.com/milindsaugat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/>
+<br/><br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=milindsaugat&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/milindsaugat?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=milindsaugat&label=PROFILE+VIEWS&color=6c63ff&style=flat-square&labelColor=0d1117" alt="Profile Views" />&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/milindsaugat?label=FOLLOWERS&style=flat-square&color=6c63ff&labelColor=0d1117" alt="Followers" />&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/milindsaugat?label=TOTAL+STARS&style=flat-square&color=6c63ff&labelColor=0d1117" alt="Stars" />
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+<!-- ABOUT ME Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> &nbsp;About Me
 
-```js
-const milind = {
-    pronouns: "He" | "Him",
-    location: "Agra, Uttar Pradesh, India 🇮🇳",
-    role: "Full Stack Developer @ Kriti Digital Solution (KDS)",
-    experience: "2+ years | 15+ production apps delivered",
-    education: "BCA (Ongoing) — Uttam Group of Institutions, Agra",
-    portfolio: "https://devmilind.me",
-    currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-    funFact: "I build apps for clients across 🇮🇳 India, 🇩🇪 Germany & 🇲🇾 Malaysia"
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+
+```typescript
+const milind: Developer = {
+  name: "Milind Ratan Saugat",
+  location: "Agra, Uttar Pradesh, India",
+  role: "Full Stack Developer @ KDS",
+  experience: "2+ years | 15+ production apps",
+  portfolio: "https://devmilind.me",
+  
+  skills: {
+    frontend: ["React.js", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "PHP", "Laravel"],
+    database: ["MongoDB", "MySQL"],
+    cms: ["WordPress", "WooCommerce"],
+    mobile: ["Flutter"],
+  },
+  
+  clients: ["🇮🇳 India", "🇩🇪 Germany", "🇲🇾 Malaysia"],
+  currentFocus: "Building scalable web platforms",
+  aiTools: ["Claude Code", "Cursor AI", "Gemini", "Codex"],
 };
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindsaugat&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=6" width="280" alt="Top Languages" />
+<br/>
 
-- 🔭 Currently working at **Kriti Digital Solution (KDS)**
-- 🌱 Building scalable web apps with **React, Node.js, PHP & WordPress**
-- 💼 Delivered projects for **investment, real estate, OTT, healthcare & e-commerce** sectors
-- 🤖 Actively using **Claude Code, Cursor AI, Gemini & Codex** for AI-powered development
-- 📫 Reach me at **milindsaugat1122@gmail.com**
-- ⚡ Fun fact: 809+ contributions in the last year!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" /> &nbsp;Currently working at **Kriti Digital Solution (KDS)**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="20" /> &nbsp;Building scalable apps for **investment, real estate, OTT, healthcare & e-commerce**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20" /> &nbsp;Actively using **AI-powered dev tools** to ship faster
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="20" /> &nbsp;Reach me at **milindsaugat1122@gmail.com**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20" /> &nbsp;**809+ contributions** in the last year!
 
 <br clear="both"/>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Arsenal
+<!-- TECH STACK Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp;Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
+<td align="center" width="140">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Languages**
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<br/>
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,php,cpp,html,css&perline=3&theme=dark" alt="Languages" />
+</a>
 
-### 🧩 CMS & Mobile
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+</td>
+<td align="center" width="140">
 
-### 🤖 AI Tools
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+**Frontend**
 
-### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&perline=3&theme=dark" alt="Frontend" />
+</a>
+
+</td>
+<td align="center" width="140">
+
+**Backend**
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php&perline=2&theme=dark" alt="Backend" />
+</a>
+
+</td>
+<td align="center" width="140">
+
+**Database**
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2&theme=dark" alt="Database" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+
+**CMS & Mobile**
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=wordpress,flutter,firebase&perline=3&theme=dark" alt="CMS & Mobile" />
+</a>
+
+</td>
+<td align="center" width="140">
+
+**AI & Tools**
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ai,bots&perline=2&theme=dark" alt="AI" />
+</a>
+
+<br/>
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white)
+
+</td>
+<td align="center" width="140">
+
+**DevOps**
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,netlify,postman,vscode&perline=3&theme=dark" alt="DevOps" />
+</a>
+
+</td>
+<td align="center" width="140">
+
+**Currently Learning**
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,aws,typescript&perline=3&theme=dark" alt="Learning" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Full Stack Animated -->
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,php,laravel,mongodb,mysql,wordpress,tailwind,vite,flutter,firebase,git,github,vscode,postman,netlify,bootstrap&perline=10&theme=dark" alt="Full Tech Stack" />
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Featured Projects
+<!-- FEATURED PROJECTS Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30" /> &nbsp;Featured Projects
 
 <div align="center">
 
@@ -114,30 +197,44 @@ const milind = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 YieldIQ — Investment Platform
-[![Live](https://img.shields.io/badge/🔗_Live-yieldiq.online-6C63FF?style=flat-square)](https://yieldiq.online)
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> YieldIQ — Investment Platform</h3>
+
+<div align="center">
+
+[![Live](https://img.shields.io/badge/LIVE-yieldiq.online-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://yieldiq.online)
+
+</div>
 
 > Tri-portal investment system for film, music distribution & precious metals
 
-**Tech:** `React.js` `Vite` `Node.js` `Express.js` `MongoDB Atlas`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb&perline=5&theme=dark" width="180" />
+</p>
 
-🔸 Super Admin, Partner/Agent & Investor dashboards  
-🔸 ROI tracking & automated commission calculation  
-🔸 Agent-client relationship management  
+▸ Super Admin, Partner/Agent & Investor dashboards  
+▸ ROI tracking & automated commission calculation  
+▸ Agent-client relationship management  
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 tocken.in — Real Estate Portal
-[![Live](https://img.shields.io/badge/🔗_Live-tocken.in-6C63FF?style=flat-square)](https://tocken.in)
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" width="22" /> tocken.in — Real Estate Portal</h3>
+
+<div align="center">
+
+[![Live](https://img.shields.io/badge/LIVE-tocken.in-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://tocken.in)
+
+</div>
 
 > Full-featured property listing & discovery platform
 
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB Atlas`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4&theme=dark" width="150" />
+</p>
 
-🔸 Advanced search & filtering system  
-🔸 Detailed property views & agent profiles  
-🔸 Buyer-to-agent inquiry workflows  
+▸ Advanced search & filtering system  
+▸ Detailed property views & agent profiles  
+▸ Buyer-to-agent inquiry workflows  
 
 </td>
 </tr>
@@ -145,30 +242,44 @@ const milind = {
 <tr>
 <td width="50%" valign="top">
 
-### 🥇 Blackmontcap — Precious Metals
-[![Live](https://img.shields.io/badge/🔗_Live-blackmontcap.com-6C63FF?style=flat-square)](https://blackmontcap.com)
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> Blackmontcap — Precious Metals</h3>
+
+<div align="center">
+
+[![Live](https://img.shields.io/badge/LIVE-blackmontcap.com-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://blackmontcap.com)
+
+</div>
 
 > Precious metal investment platform for Malaysian client
 
-**Tech:** `React.js` `Vite` `Node.js` `Express.js` `MongoDB Atlas`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb&perline=5&theme=dark" width="180" />
+</p>
 
-🔸 Live spot rate display  
-🔸 Custom booking & transaction system  
-🔸 Full admin dashboard for orders management  
+▸ Live spot rate display  
+▸ Custom booking & transaction system  
+▸ Full admin dashboard for orders management  
 
 </td>
 <td width="50%" valign="top">
 
-### ✍️ Wordora — Content Agency CMS
-[![Live](https://img.shields.io/badge/🔗_Live-wordora.in-6C63FF?style=flat-square)](https://wordora.in)
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="22" /> Wordora — Content Agency CMS</h3>
+
+<div align="center">
+
+[![Live](https://img.shields.io/badge/LIVE-wordora.in-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://wordora.in)
+
+</div>
 
 > Full-stack CMS for content writing agency
 
-**Tech:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js&perline=5&theme=dark" width="180" />
+</p>
 
-🔸 Client order & writer assignment workflows  
-🔸 Content delivery tracking & revision handling  
-🔸 Built-in SEO optimization tools  
+▸ Client order & writer assignment workflows  
+▸ Content delivery tracking & revision handling  
+▸ Built-in SEO optimization tools  
 
 </td>
 </tr>
@@ -176,28 +287,40 @@ const milind = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Kriti Digital — Enterprise CMS
-[![Live](https://img.shields.io/badge/🔗_Live-kritidigital.com-6C63FF?style=flat-square)](https://kritidigital.com)
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" /> Kriti Digital — Enterprise CMS</h3>
+
+<div align="center">
+
+[![Live](https://img.shields.io/badge/LIVE-kritidigital.com-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://kritidigital.com)
+
+</div>
 
 > Enterprise-level CMS for digital agency
 
-**Tech:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js&perline=5&theme=dark" width="180" />
+</p>
 
-🔸 Manages jobs, pages, blogs & case studies  
-🔸 SEO metadata & lead management  
-🔸 Role-based access control system  
+▸ Manages jobs, pages, blogs & case studies  
+▸ SEO metadata & lead management  
+▸ Role-based access control system  
 
 </td>
 <td width="50%" valign="top">
 
-### 📺 Catch&Watch — OTT Dashboard
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" width="22" /> Catch&Watch — OTT Dashboard</h3>
+
+<br/>
+
 > Social media-style OTT streaming dashboard
 
-**Tech:** `React.js`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&perline=1&theme=dark" width="45" />
+</p>
 
-🔸 Instagram-like content feed  
-🔸 Creator upload flows & content categorization  
-🔸 Fully responsive component architecture  
+▸ Instagram-like content feed  
+▸ Creator upload flows & content categorization  
+▸ Fully responsive component architecture  
 
 </td>
 </tr>
@@ -205,105 +328,151 @@ const milind = {
 <tr>
 <td width="50%" valign="top">
 
-### 💎 RangoliJewels — E-commerce
-[![Live](https://img.shields.io/badge/🔗_Live-RangoliJewels.in-6C63FF?style=flat-square)](https://RangoliJewels.in)
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" /> RangoliJewels — E-commerce</h3>
+
+<div align="center">
+
+[![Live](https://img.shields.io/badge/LIVE-RangoliJewels.in-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://RangoliJewels.in)
+
+</div>
 
 > Jewelry e-commerce with pincode-based filtering
 
-**Tech:** `WordPress` `WooCommerce` `Custom PHP Plugin`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress&perline=1&theme=dark" width="45" />
+</p>
 
-🔸 Custom pincode-based product availability  
-🔸 Localized shopping experience  
+▸ Custom pincode-based product availability  
+▸ Localized shopping experience  
 
 </td>
 <td width="50%" valign="top">
 
-### 🇩🇪 Studio0211 — German Agency
-[![Live](https://img.shields.io/badge/🔗_Live-studio0211.de-6C63FF?style=flat-square)](https://studio0211.de)
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Globe%20with%20Meridians.png" width="22" /> Studio0211 — German Agency</h3>
+
+<div align="center">
+
+[![Live](https://img.shields.io/badge/LIVE-studio0211.de-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://studio0211.de)
+
+</div>
 
 > Digital agency website for German client
 
-**Tech:** `WordPress`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress&perline=1&theme=dark" width="45" />
+</p>
 
-🔸 Responsive portfolio & service showcase  
-🔸 Cross-browser optimized for German market  
+▸ Responsive portfolio & service showcase  
+▸ Cross-browser optimized for German market  
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>🔽 More Projects (Click to expand)</b></summary>
+<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" width="18" /> <b>More Projects (Click to expand)</b></summary>
 <br/>
 
 | Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| 🏥 [**MedicEduGlobal**](https://mediceduglobalprivatelimited.in) | PHP, MySQL, JS | Healthcare education platform with admin dashboard |
-| 🙏 [**Samagran**](https://samagran.com) | HTML, CSS, JS | Puja & devotee app promotional website |
-| 🏫 [**RBSMTC**](https://rbsmtc.in) | WordPress, Custom Plugin | Institutional website with dynamic notice board |
-| 🍔 [**Krishna Foods**](https://krishnafoodindustries.in) | WordPress, Custom Plugin | FMCG product catalog management |
+|:--------|:-----------|:------------|
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hospital.png" width="16" /> [**MedicEduGlobal**](https://mediceduglobalprivatelimited.in) | `PHP` `MySQL` `JS` | Healthcare education platform with admin dashboard |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Prayer%20Beads.png" width="16" /> [**Samagran**](https://samagran.com) | `HTML` `CSS` `JS` | Puja & devotee app promotional website |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" width="16" /> [**RBSMTC**](https://rbsmtc.in) | `WordPress` `Custom Plugin` | Institutional website with dynamic notice board |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hamburger.png" width="16" /> [**Krishna Foods**](https://krishnafoodindustries.in) | `WordPress` `Custom Plugin` | FMCG product catalog management |
 
 </details>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
+<!-- GITHUB ANALYTICS Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp;GitHub Analytics
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=milindsaugat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=milindsaugat&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=milindsaugat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B794F6&icon_color=6C63FF&text_color=c9d1d9&ring_color=B794F6" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=milindsaugat&theme=tokyonight&hide_border=true&background=0d1117&ring=B794F6&fire=6C63FF&currStreakLabel=B794F6&sideLabels=c9d1d9&dates=555555&currStreakNum=B794F6&sideNums=6C63FF" alt="GitHub Streak" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=milindsaugat&custom_title=Milind's%20Contribution%20Graph&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area_color=6C63FF&area=true&hide_border=true&title_color=c9d1d9" alt="Contribution Graph" />
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindsaugat&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B794F6&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+
 </div>
 
----
+<br/>
 
-## 💼 Work Experience
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=milindsaugat&custom_title=Milind's%20Contribution%20Graph&bg_color=0d1117&color=B794F6&line=6C63FF&point=ffffff&area_color=B794F6&area=true&hide_border=true&title_color=c9d1d9" alt="Contribution Graph" />
+</div>
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🏢 Full Stack Developer @ Kriti Digital Solution (KDS)            │
-│  📅 Jan 2025 – Present  |  📍 Agra, Uttar Pradesh                 │
-│                                                                     │
-│  ▸ Building scalable full-stack apps for investment, real estate,   │
-│    healthcare, FMCG & digital agency sectors                        │
-│  ▸ React.js, Node.js, PHP, MySQL, WordPress                        │
-│  ▸ Clients across India 🇮🇳, Germany 🇩🇪 & Malaysia 🇲🇾              │
-├─────────────────────────────────────────────────────────────────────┤
-│  🏢 Website Developer @ Full Digital Ads (FDA)                     │
-│  📅 2024 – 2025  |  📍 Agra, Uttar Pradesh                        │
-│                                                                     │
-│  ▸ Designed responsive websites with HTML5, CSS3, JS & WordPress   │
-│  ▸ Collaborated with design & marketing teams                       │
-│  ▸ Improved performance, SEO & cross-browser compatibility          │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 🎓 Education
+<!-- WORK EXPERIENCE Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" /> &nbsp;Work Experience
 
 <div align="center">
 
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|-----------|---------------|---------|
-| **BCA (Bachelor of Computer Application)** | Uttam Group of Institutions, Agra | 2024 – 2027 (Ongoing) |
-| **Intermediate — Class 12** | Radha Ballabh Inter College, UP Board | Completed 2021 |
-| **High School — Class 10** | Radha Ballabh Inter College, UP Board | Completed 2019 |
+<table>
+<tr>
+<td>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" /> Full Stack Developer — Kriti Digital Solution (KDS)
+**`Jan 2025 – Present`** &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="14" /> Agra, UP
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,php,mysql,wordpress&perline=5&theme=dark" width="200" />
+
+▸ Building scalable full-stack apps for **investment, real estate, healthcare, FMCG** sectors  
+▸ Delivering production-grade apps for clients across **India, Germany & Malaysia**  
+▸ Leveraging **AI-powered tools** (Claude Code, Cursor, Gemini) for 2x delivery speed
+
+</td>
+</tr>
+<tr>
+<td>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="20" /> Website Developer — Full Digital Ads (FDA)
+**`2024 – 2025`** &nbsp;|&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="14" /> Agra, UP
+
+<img src="https://skillicons.dev/icons?i=html,css,js,wordpress&perline=4&theme=dark" width="160" />
+
+▸ Designed responsive websites for **retail, services & hospitality** clients  
+▸ Collaborated with design & marketing teams on **brand-aligned web assets**  
+▸ Improved **performance, SEO & cross-browser compatibility** across projects
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake
+<!-- EDUCATION Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" /> &nbsp;Education
+
+<div align="center">
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="16" /> Degree | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" width="16" /> Institution | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="16" /> Year |
+|:--|:--|:--|
+| **BCA (Bachelor of Computer Application)** | Uttam Group of Institutions, Agra | `2024 – 2027` (Ongoing) |
+| **Intermediate — Class 12** | Radha Ballabh Inter College, UP Board | `Completed 2021` |
+| **High School — Class 10** | Radha Ballabh Inter College, UP Board | `Completed 2019` |
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- CONTRIBUTION SNAKE Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> &nbsp;Contribution Snake
 
 <div align="center">
   <picture>
@@ -313,31 +482,56 @@ const milind = {
   </picture>
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- GITHUB TROPHIES -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> &nbsp;GitHub Trophies
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=milindsaugat&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</div>
 
-### 🤝 Let's Connect & Build Something Amazing!
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- CONNECT Section -->
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> Let's Connect & Build Something Amazing!
+
+<br/>
 
 <a href="https://devmilind.me">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-devmilind.me-6C63FF?style=for-the-badge" />
-</a>
+  <img src="https://img.shields.io/badge/Portfolio-devmilind.me-B794F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>&nbsp;
 <a href="https://linkedin.com/in/milind-ratan-saugat">
-  <img src="https://img.shields.io/badge/LinkedIn-milind--ratan--saugat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-milind--saugat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
 <a href="mailto:milindsaugat1122@gmail.com">
-  <img src="https://img.shields.io/badge/Email-milindsaugat1122-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
 <a href="tel:+919411404446">
-  <img src="https://img.shields.io/badge/📞_Phone-+91_9411404446-25D366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Phone-+91_9411404446-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <br/><br/>
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+```
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║                                                                  ║
+ ║   "First, solve the problem. Then, write the code."              ║
+ ║                                          — John Johnson          ║
+ ║                                                                  ║
+ ╚══════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=120&section=footer" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Thanks for visiting! Drop a <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="18" /> if you like what you see!
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:6c63ff,75:b794f6,100:6c63ff&height=120&section=footer" />
 
 </div>
